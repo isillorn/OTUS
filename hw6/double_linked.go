@@ -8,17 +8,6 @@ import (
 
 /*
  https://en.wikipedia.org/wiki/Doubly_linked_list
-
- Len()  длина списка
- First() первый Item
- Last() последний Item
- PushFront(v interface{})  добавить значение в начало
- PushBack(v interface{})  добавить значение в конец
- Remove(i Item) удалить элемент
- Value() interface{} возвращает значение
- Next() *Item следующий Item
- Prev() *Item предыдущий
-
 */
 
 // Объявление и реализация интерфейса
